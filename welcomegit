@@ -1,1 +1,26 @@
 hi i'm prashanth
+How to Change File Ownership in Linux | chown Command
+
+GeeksforGeeks
+https://www.geeksforgeeks.org › chown-command-in-lin...
+2 Feb 2024 — The ` chown` command, short for “change owner,” is a powerful tool that allows users to change the owner of files and directories.
+‎Types of file Permissions in... · ‎Syntax of chown Command in...
+
+chown Command - Directory
+
+IBM
+https://www.ibm.com › docs › ssw_aix_72 › c_commands
+The chown command changes the owner of the file or directory specified by the File or Directory parameter to the user specified by the Owner parameter. The ...
+
+How to Use Chown Command in Linux + Free Linux Cheat ...
+
+Hostinger
+https://www.hostinger.in › tutorials › linux-chown-comm...
+12 Apr 2024 — The main command for changing ownership is chown. It allows users to change user and group ownership both for files and for directories. We'll ...
+
+Chown Command in Linux (File Ownership)
+
+Linuxize
+https://linuxize.com › post › linux-chown-command
+12 Dec 2023 — The chown command allows you to change the user and/or group ownership of a given file, directory, or symbolic link.
+
